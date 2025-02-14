@@ -1,4 +1,4 @@
-# ABDULLAHI-ABDULRAHAMN-U23AUE1001
+# ABDULLAHI-ABDULRAHMAN-U23AUE1001
 Swing Calculator
 
 A simple graphical calculator built with Java Swing.
