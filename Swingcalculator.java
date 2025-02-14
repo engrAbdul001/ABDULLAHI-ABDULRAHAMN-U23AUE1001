@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Abdulswingcalculator {
+public class Swingcalculator {
 
     private JTextField displayField;
     private String currentInput = "";
